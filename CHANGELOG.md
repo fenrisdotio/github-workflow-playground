@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/fenrisdotio/github-workflow-playground/compare/v1.0.0...v1.1.0) (2024-12-18)
+
+
+### Features
+
+* set draft releases in github ([8e73d49](https://github.com/fenrisdotio/github-workflow-playground/commit/8e73d499aa73c378a846476891b95e2671745f02))
+
+
+### Bug Fixes
+
+* did a thing ([d7b64bb](https://github.com/fenrisdotio/github-workflow-playground/commit/d7b64bb42620a362b1925a7ee124ea702f6ba4f8))
+
 ## 1.0.0 (2024-12-18)
 
 
