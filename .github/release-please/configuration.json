@@ -4,7 +4,8 @@
     ".": {}
   },
   "release-type": "simple",
-  "draft": true,
+  "prerelease": true,
+  "prerelease-type": "beta",
   "changelog-sections": [
     { "type": "feat", "section": "Features" },
     { "type": "feature", "section": "Features" },
