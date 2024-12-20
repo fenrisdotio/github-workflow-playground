@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2-beta](https://github.com/fenrisdotio/github-workflow-playground/compare/v1.2.1-beta...v1.2.2-beta) (2024-12-20)
+
+
+### Bug Fixes
+
+* try release and prerelease setup ([5e5ebb8](https://github.com/fenrisdotio/github-workflow-playground/commit/5e5ebb8dee74de8e92e1bade131ae53b0fdba857))
+
 ## [1.2.1-beta](https://github.com/fenrisdotio/github-workflow-playground/compare/v1.2.0...v1.2.1-beta) (2024-12-18)
 
 
