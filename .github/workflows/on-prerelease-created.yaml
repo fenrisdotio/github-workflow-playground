@@ -1,9 +1,9 @@
-name: release-please
+name: On "prerelease" release created
 
 on:
-  push:
-    branches:
-      - main
+  release:
+    types:
+      - prereleased
 
 jobs:
   release-please:
@@ -14,4 +14,4 @@ jobs:
         with:
           token: ${{ secrets.RELEASE_PLEASE_TOKEN }}
           manifest-file: ".github/release-please/manifest.json"
-          config-file: ".github/release-please/configuration.json"
+          config-file: ".github/release-please/configuration.release.json"
