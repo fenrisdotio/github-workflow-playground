@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2-beta.1](https://github.com/fenrisdotio/github-workflow-playground/compare/v1.2.2-beta...v1.2.2-beta.1) (2024-12-20)
+
+
+### Bug Fixes
+
+* try to set default versioning strategy for release ([ec24b4f](https://github.com/fenrisdotio/github-workflow-playground/commit/ec24b4f450bd83b923cdb9e6b513f8af872626a6))
+
 ## [1.2.2-beta](https://github.com/fenrisdotio/github-workflow-playground/compare/v1.2.1-beta...v1.2.2-beta) (2024-12-20)
 
 
